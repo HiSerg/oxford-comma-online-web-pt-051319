@@ -5,7 +5,7 @@ return array.join
 elsif array.length == 2
 return array.join (" and ")
 
-elsif array.length >=3 
+else array.length >=3 
 array_a = array [-1]
 
 array << "and"
