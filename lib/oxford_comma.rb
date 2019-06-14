@@ -7,7 +7,7 @@ return array.join (" and ")
 
 elsif array.length >=3 
 array << "and"
-array.pop[""]
+array.pop[-1]
 end
 
 end
