@@ -8,7 +8,6 @@ return array.join (" and ")
 else array.length >=3 
 array_a = array [-1]
 
-array << "and"
 
 array.pop[-1]
 array << array_a
