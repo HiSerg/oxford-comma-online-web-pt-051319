@@ -6,7 +6,7 @@ elsif array.length == 2
 return array.join (" and ")
 
 else array.length >=3 
-array_a = array [-1]
+array_a = ["and #{array[-1]}"]
 
 
 array.pop[-1]
