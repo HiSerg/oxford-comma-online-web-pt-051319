@@ -4,4 +4,7 @@ put array
 
 elsif array.length == 2
 put array.join (" and ")
+
+end
+
 end
