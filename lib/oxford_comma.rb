@@ -11,6 +11,7 @@ array_a = ["and #{array[-1]}"]
 
 array.pop[-1]
 array << array_a
+array.join ", "
 end
 
 end
